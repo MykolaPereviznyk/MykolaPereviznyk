@@ -28,4 +28,4 @@ combining software with hardware like **Raspberry Pi** and **Arduino**.
 ---
 
 ### 🎓 Certificates  
-📘 [Python Certificate (PDF)](./certificate_python.pdf)
+[![Python Certificate](./certificate_preview.png)](./certificate_python.pdf)

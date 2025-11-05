@@ -24,3 +24,8 @@ combining software with hardware like **Raspberry Pi** and **Arduino**.
 
 ### 🌍 Connect
 📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
+
+---
+
+### 🎓 Certificates  
+📘 [Python Certificate (PDF)](./certificate_python.pdf)

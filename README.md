@@ -2,8 +2,8 @@
 
 🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
 
-💡 I’m passionate about **Python**, **SQL**, **Data Science**, and **AI** —  
-combining software with hardware like **Raspberry Pi**, **ESP32**, and **Arduino**.
+💡 I’m passionate about **Data Science**, and **AI** —  
+combining software with hardware like **Raspberry Pi** and **Arduino**.
 
 ---
 
@@ -24,7 +24,3 @@ combining software with hardware like **Raspberry Pi**, **ESP32**, and **Arduino
 
 ### 🌍 Connect
 📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
-
----
-
-🧩 *"Code. Learn. Automate. Repeat."*

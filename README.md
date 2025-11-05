@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mykola Pereviznyk
 
-<!--
-**MykolaPereviznyk/MykolaPereviznyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
 
-Here are some ideas to get you started:
+💡 I’m passionate about **Python**, **SQL**, **Data Science**, and **AI** —  
+combining software with hardware like **Raspberry Pi**, **ESP32**, and **Arduino**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+- 🐍 **Python** — OOP, GUI (Tkinter, Pygame), Automation (PyAutoGUI, Selenium)  
+- 🌐 **Web Scraping** — Beautiful Soup, Requests  
+- 🤖 **Bot Development** — Telebot  
+- 📊 **Data Processing** — NumPy, Pandas, Matplotlib, JSON, CSV  
+- ✉️ **Communication APIs** — smtplib, email, Twilio  
+
+---
+
+### 🎓 Background
+✅ Completed **Mosh’s Python course** — *From Beginner to Professional*  
+🚀 Currently exploring **AI automation** and **data visualization**
+
+---
+
+### 🌍 Connect
+📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
+
+---
+
+🧩 *"Code. Learn. Automate. Repeat."*

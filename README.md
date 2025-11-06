@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
 <p align="center">
-  Passionate about <strong>AI, Data Science, and Real-World Automation</strong>
+  Passionate about <strong>AI, Data Science</strong>
 </p>
 
 ---
@@ -41,4 +41,3 @@
 
 - ![Python Certificate](./certificate_python.pdf) *(Click to view)*
 
----

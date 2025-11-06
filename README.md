@@ -1,40 +1,59 @@
 <div align="center">
-  <img height="600" width="1200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="600" width="1200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
-###
-
-🎯 **Pytho Developer & Enthusiast** based in **München, Germany**
-💡 I’m passionate about **Data Science**, and **AI**
+<p align="center">
+  🧠 Strategic Python Developer | 📊 Data Enthusiast | 🤖 Automation Explorer<br>
+  📍 Based in <strong>Munich, Germany 🇩🇪</strong><br>
+  💡 Passionate about <strong>AI, Data Science, and Real-World Automation</strong>
+</p>
 
 ---
 
-### 🧠 Tech Stack
+### 🚀 Tech Stack & Tools
+
 - 🐍 **Python** — OOP, GUI (Tkinter, Pygame), Automation (PyAutoGUI, Selenium)  
-- 🌐 **Web Scraping** — Beautiful Soup, Requests  
-- 🤖 **Bot Development** — Telebot  
+- 🌐 **Web Scraping** — BeautifulSoup, Requests  
+- 🤖 **Bot Development** — Telebot, Telegram API  
 - 📊 **Data Processing** — NumPy, Pandas, Matplotlib, JSON, CSV  
 - ✉️ **Communication APIs** — smtplib, email, Twilio  
+- 🧪 **Testing & Debugging** — Pytest, logging, exception handling
 
 ---
 
-### 🎓 Background
-✅ Completed **Mosh’s Python course** — *From Beginner to Professional*  
-🚀 Currently exploring **AI automation** and **data visualization**
+### 🎓 Learning Journey
+
+- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners) — *From Beginner to Professional*  
+- 🔍 Currently exploring **AI automation**, **data visualization**, and **real-world bot deployment**
 
 ---
 
-### 🌍 Connect
-📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykolaPereviznyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykolaPereviznyk&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
 ---
 
-### 🎓 Certificates  
-![Python Certificate](./certificate_python.pdf)
+### 🧾 Certificates
+
+- ![Python Certificate](./certificate_python.pdf) *(Click to view)*
+
+---
+
+### 🌍 Let’s Connect
+
+- 💬 Reach me here on GitHub  
+- 📬 Or say hi if you're in **Munich** — always open to collaboration!
+
+---
+
+### 🧠 Fun Fact
+
+> I treat code like a system — modular, scalable, and built for real-world impact.  
+> Whether it's a Telegram bot or a Steam trading script, I optimize for clarity and results.
+

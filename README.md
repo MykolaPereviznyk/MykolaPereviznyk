@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+
 # 👋 Hi, I'm Mykola Pereviznyk
 
 🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
@@ -26,7 +29,6 @@ combining software with hardware like **Raspberry Pi** and **Arduino**.
 📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykolaPereviznyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>

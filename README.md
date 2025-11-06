@@ -34,6 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykolaPereviznyk&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
+[![Codewars](https://www.codewars.com/users/MykolaTech/badges/large)](https://www.codewars.com/users/MykolaTech)
+
+
 ---
 
 ### 🧾 Certificates

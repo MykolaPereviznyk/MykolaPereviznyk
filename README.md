@@ -1,6 +1,6 @@
-
-<img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+</div>
 # 👋 Hi, I'm Mykola Pereviznyk
 
 🎯 **Python Developer & Data Enthusiast** based in **München, Germany**

@@ -38,5 +38,5 @@
 
 ### 🧾 Certificates
 
-- ![Python Certificate](./certificate_python.pdf) *(Click to view)*
+- ![Python Certificate](./certificate_python.pdf)
 

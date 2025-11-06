@@ -6,9 +6,8 @@
 
 ###
 
-🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
-
-💡 I’m passionate about **Data Science**, and **AI** —  
+🎯 **Pytho Developer & Enthusiast** based in **München, Germany**
+💡 I’m passionate about **Data Science**, and **AI**
 
 ---
 

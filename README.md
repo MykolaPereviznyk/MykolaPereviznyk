@@ -10,6 +10,10 @@
 
 ---
 
+### About me:
+
+---
+
 ### 🚀 Tech Stack & Tools:
 
 - 🐍 **Python** — OOP, GUI (Tkinter, Pygame), Automation (PyAutoGUI, Selenium)  

@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
----
+###
 
 🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
 

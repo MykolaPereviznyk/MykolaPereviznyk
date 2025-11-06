@@ -4,10 +4,6 @@
 
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
-<p align="center">
-  Passionate about <strong>AI, Data Science</strong>
-</p>
-
 ---
 
 ### 🔥 About me:

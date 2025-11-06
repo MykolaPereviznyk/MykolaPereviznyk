@@ -23,8 +23,7 @@
 
 ### 🎓 Learning Journey
 
-- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners) — *From Beginner to Professional*  
-- 🔍 Currently exploring **AI automation**, **data visualization**, and **real-world bot deployment**
+- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
 ---
 

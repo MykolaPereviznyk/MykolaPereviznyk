@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack & Tools:
 
 - 🐍 **Python** — OOP, GUI (Tkinter, Pygame), Automation (PyAutoGUI, Selenium)  
 - 🌐 **Web Scraping** — BeautifulSoup, Requests  
@@ -21,13 +21,13 @@
 
 ---
 
-### 🎓 Learning Journey
+### 🎓 Learning Journey:
 
 - ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
 ---
 
-### 📈 Statistics
+### 📈 Statistics:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&show_icons=true&theme=dracula&count_private=true" height="150" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 💻 Codewars
+### 💻 Codewars:
 
 <div align="center">
 <img src="https://www.codewars.com/users/MykolaPereviznyk/badges/large" height=150 />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🧾 Certificates
+### 🧾 Certificates:
 
 - [Python Certificate](./certificate_python.pdf)
 

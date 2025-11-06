@@ -28,7 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Skill
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&show_icons=true&theme=dracula&count_private=true" height="150" />

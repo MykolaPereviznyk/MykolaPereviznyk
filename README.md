@@ -21,12 +21,6 @@
 
 ---
 
-### 🎓 Learning Journey:
-
-- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
-
----
-
 ### 📈 Statistics:
 
 <div align="center">
@@ -41,6 +35,12 @@
 <div align="center">
 <img src="https://www.codewars.com/users/MykolaPereviznyk/badges/large" height=150 />
 </div>
+
+---
+
+### 🎓 Learning Journey:
+
+- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
 ---
 

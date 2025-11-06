@@ -30,11 +30,11 @@
 ### 📈 Statistics
 
 <div align="center">
+  [![Codewars](https://www.codewars.com/users/MykolaPereviznyk/badges/large)](https://www.codewars.com/users/MykolaPereviznyk)
   <img src="https://github-readme-stats.vercel.app/api?username=MykolaPereviznyk&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MykolaPereviznyk&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
-[![Codewars](https://www.codewars.com/users/MykolaPereviznyk/badges/large)](https://www.codewars.com/users/MykolaPereviznyk)
 
 
 ---

@@ -44,16 +44,3 @@
 - ![Python Certificate](./certificate_python.pdf) *(Click to view)*
 
 ---
-
-### 🌍 Let’s Connect
-
-- 💬 Reach me here on GitHub  
-- 📬 Or say hi if you're in **Munich** — always open to collaboration!
-
----
-
-### 🧠 Fun Fact
-
-> I treat code like a system — modular, scalable, and built for real-world impact.  
-> Whether it's a Telegram bot or a Steam trading script, I optimize for clarity and results.
-

@@ -25,6 +25,9 @@ combining software with hardware like **Raspberry Pi** and **Arduino**.
 ### 🌍 Connect
 📫 Reach me here on **GitHub** or say hi if you’re in **Munich** 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MykolaPereviznyk=anuraghazra&commits_year=2020)
+
 ---
 
 ### 🎓 Certificates  

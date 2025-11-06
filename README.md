@@ -9,7 +9,6 @@
 🎯 **Python Developer & Data Enthusiast** based in **München, Germany**
 
 💡 I’m passionate about **Data Science**, and **AI** —  
-combining software with hardware like **Raspberry Pi** and **Arduino**.
 
 ---
 

@@ -38,7 +38,7 @@
 
 ### 💻 Codewars
 
-<img src="https://www.codewars.com/users/MykolaPereviznyk/badges/large" height=150, align="center" />
+<img src="https://www.codewars.com/users/MykolaPereviznyk/badges/large" align="center" height=150 />
 
 ---
 

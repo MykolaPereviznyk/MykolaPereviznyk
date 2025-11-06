@@ -4,8 +4,6 @@
 
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
----
-
 ### 🔥 About me:
   Hi! My name is Mykola, I’m 16 years old, and I’m a beginner programmer passionate about modern technologies.
   I’m especially interested in Artificial Intelligence (AI), Data Science, and working with Arduino and Raspberry Pi.

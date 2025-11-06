@@ -37,4 +37,4 @@
 ---
 
 ### 🎓 Certificates  
-[![Python Certificate](./certificate_python.png)](./certificate_python.pdf)
+[![Python Certificate]((./certificate_python.pdf)

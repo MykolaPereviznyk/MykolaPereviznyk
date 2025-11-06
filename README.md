@@ -5,9 +5,7 @@
 <h1 align="center">👋 Hi, I'm Mykola Pereviznyk!</h1>
 
 <p align="center">
-  🧠 Strategic Python Developer | 📊 Data Enthusiast | 🤖 Automation Explorer<br>
-  📍 Based in <strong>Munich, Germany 🇩🇪</strong><br>
-  💡 Passionate about <strong>AI, Data Science, and Real-World Automation</strong>
+  Passionate about <strong>AI, Data Science, and Real-World Automation</strong>
 </p>
 
 ---

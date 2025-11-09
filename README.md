@@ -40,7 +40,7 @@
 
 ### 🎓 Learning Journey:
 
-- ✅ Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
+- Completed [Mosh Hamedani’s Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
 ---
 

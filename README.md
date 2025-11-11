@@ -15,7 +15,7 @@
 - 🐍 **Python** — OOP, GUI (Tkinter, Pygame), Automation (PyAutoGUI, Selenium)  
 - 🌐 **Web Scraping** — BeautifulSoup, Requests  
 - 🤖 **Bot Development** — Telebot, Telegram API  
-- 📊 **Data Processing** — NumPy, Pandas, Matplotlib, JSON, CSV  
+- 📊 **Data Processing** — NumPy, Pandas, Matplotlib
 - ✉️ **Communication APIs** — smtplib, email, Twilio  
 - 🧪 **Testing & Debugging** — Pytest, logging, exception handling
 

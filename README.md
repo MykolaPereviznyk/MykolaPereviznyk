@@ -47,4 +47,5 @@
 ### 🧾 Certificates:
 
 - [Python Certificate](./certificate_python.pdf)
+  
 
